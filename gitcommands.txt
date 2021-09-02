@@ -1,0 +1,21 @@
+>git init
+
+for initializing empty git repository
+
+>git status
+
+list all untracked files
+
+
+>git add fileName
+
+add file into staging area
+
+
+
+> git commit -m"message"
+
+
+adding files to local repository
+
+
